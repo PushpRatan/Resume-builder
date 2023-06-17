@@ -2,6 +2,9 @@
 
 This is a Resume Builder web application built using React.js. It allows users to create professional resumes by providing an intuitive user interface and draggable sections.
 
+## Deployed Link
+For buildin the resume or testing, please visit [Deployed Link](https://elevateresume.netlify.app/).
+
 ## Features
 
 - Easy-to-use interface: The web app provides a user-friendly interface for creating and customizing resumes. Users can easily navigate through the different sections and add or modify the content as needed.
@@ -30,5 +33,8 @@ This is a Resume Builder web application built using React.js. It allows users t
 5. Once your resume is ready, click the "Download" button to save it as a PDF file.
 
 6. Congratulations! You now have a professional resume ready for your job applications.
+
+
+
 
 
